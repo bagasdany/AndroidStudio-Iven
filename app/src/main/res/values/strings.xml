@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">IVEN</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <!--=== Nav Drawer Menu Items ============================================================== -->
+    <string name="title_nav_all">All Events</string>
+    <string name="title_nav_fav">Favorites</string>
+    <string name="title_nav_news">News Info</string>
+
+    <string name="title_nav_featured">Featured Events</string>
+    <string name="title_nav_tour">Tourist Destination</string>
+    <string name="title_nav_food">Food \u0026 Drink</string>
+    <string name="title_nav_hotels">Night Life</string>
+    <string name="title_nav_ent">Entertainment</string>
+    <string name="title_nav_sport">Sport</string>
+    <string name="title_nav_shop">Shopping</string>
+    <string name="title_nav_transport">Transportation</string>
+    <string name="title_nav_religion">Religion</string>
+    <string name="title_nav_public">Public Services</string>
+    <string name="title_nav_money">Money</string>
+
+</resources>
